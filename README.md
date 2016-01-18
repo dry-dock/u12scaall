@@ -1,4 +1,4 @@
-# u14scaall
+# u12scaall
 Shippable CI image for Scala on Ubuntu 12.04 with all available services. Available versions are:
 
 1. 2.9.3
